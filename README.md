@@ -20,10 +20,10 @@ The dataset consists of daily stock prices and volumes for 14 tech companies fro
 * Importing necessary libraries and data.
 * Visualizing time series of adjusted closing prices to understand trends over the period from 2010 to 2023.
 
-###Exploratory Data Analysis
+### Exploratory Data Analysis
 * Checking for missing values and performing initial analysis to understand the data's distribution and characteristics.
 
-###Predictive Modeling
+### Predictive Modeling
 Implementation of several machine learning models to predict stock prices:
 * Linear Regression: Basic regression model to establish a performance baseline.
 * Random Forest: A more complex model to capture non-linear relationships.
@@ -32,20 +32,20 @@ Implementation of several machine learning models to predict stock prices:
 
 Each model's implementation is accompanied by visualizations of predicted vs. actual values and the distribution of prediction errors.
 
-### Libraries Used
+## Libraries Used
 * NumPy
 * pandas
 * matplotlib
 * scikit-learn
 * statsmodels
 
-### How to Use
+## How to Use
 * Clone this repository.
 * Ensure you have Jupyter Notebook installed, or use Google Colab to open the .ipynb file.
 * Install the required libraries.
 * Run the notebook to see the analysis and predictions.
 
-### Authors
+## Authors
 * Sarthak Miglani
 * Shakir Ahmed
 * Udit Chaudhary
